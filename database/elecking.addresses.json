@@ -1,0 +1,1274 @@
+[{
+  "_id": {
+    "$oid": "67be81d5447c10378c42365b"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 761,
+    "name": "Quận 12"
+  },
+  "ward": {
+    "code": 26776,
+    "name": "Phường Tân Chánh Hiệp"
+  },
+  "description": "Đường Nguyễn Thị Đặng",
+  "phone": "0976676767",
+  "fullname": "Đào Vĩnh Khang",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67b6b0bdbfe3474f1ec40f45"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e7b289fa360dffdb459d6c"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 764,
+    "name": "Quận Gò Vấp"
+  },
+  "ward": {
+    "code": 26884,
+    "name": "Phường 10"
+  },
+  "description": "327/36 Quang Trung, P10, Gò Vấp",
+  "phone": "0932916341",
+  "fullname": "Phạm Thiên Trường",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e7b1b6fa360dffdb459621"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e7c24effa238ffcdb9f239"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 761,
+    "name": "Quận 12"
+  },
+  "ward": {
+    "code": 26787,
+    "name": "Phường Tân Hưng Thuận"
+  },
+  "description": "chợ bà điểm, quận 12",
+  "phone": "0936548587",
+  "fullname": "Nguyễn Đặng Hưng",
+  "type": 1,
+  "status": 0,
+  "setDefault": false,
+  "user_id": {
+    "$oid": "67e7c0b5ffa238ffcdb9db6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e7c2c3ffa238ffcdb9f4f8"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 761,
+    "name": "Quận 12"
+  },
+  "ward": {
+    "code": 26787,
+    "name": "Phường Tân Hưng Thuận"
+  },
+  "description": "Chợ Bà Điểm, Quận 12",
+  "phone": "09365641238",
+  "fullname": "Nguyễn Đặng Hưng",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e7c0b5ffa238ffcdb9db6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e7c800ffa238ffcdba0a4e"
+  },
+  "province": {
+    "code": 42,
+    "name": "Tỉnh Hà Tĩnh"
+  },
+  "district": {
+    "code": 437,
+    "name": "Thị xã Hồng Lĩnh"
+  },
+  "ward": {
+    "code": 18118,
+    "name": "Phường Nam Hồng"
+  },
+  "description": "Thị xã Hồng Lĩnh",
+  "phone": "0956789452",
+  "fullname": "Khang Đào",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e7c713ffa238ffcdb9fc15"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e7cc0dffa238ffcdba25e1"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 765,
+    "name": "Quận Bình Thạnh"
+  },
+  "ward": {
+    "code": 26917,
+    "name": "Phường 12"
+  },
+  "description": "Tòa nhà SunFlower",
+  "phone": "03365412385",
+  "fullname": "Dương Gia Khang",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e7cb55ffa238ffcdba1bc5"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e7ce28ffa238ffcdba30c9"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 761,
+    "name": "Quận 12"
+  },
+  "ward": {
+    "code": 26788,
+    "name": "Phường Đông Hưng Thuận"
+  },
+  "description": "Tòa QTSC 9, Công viên phần mềm quang trung",
+  "phone": "0987532145",
+  "fullname": "Văn Tuấn",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67b6b0bdbfe3474f1ec40f44"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e7d034ffa238ffcdba417e"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 769,
+    "name": "Thành phố Thủ Đức"
+  },
+  "ward": {
+    "code": 26794,
+    "name": "Phường Linh Xuân"
+  },
+  "description": "Tòa nhà A, Phạm Văn Đồng, Linh Xuân, Thủ Đức",
+  "phone": "0907564389",
+  "fullname": "Hoàng Minh",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e7cf2effa238ffcdba363c"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8beec004a3ecca807996d"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 764,
+    "name": "Quận Gò Vấp"
+  },
+  "ward": {
+    "code": 26898,
+    "name": "Phường 8"
+  },
+  "description": "875/23 Quang Trung, P8, Gò Vấp",
+  "phone": "09331238546",
+  "fullname": "nguyentinh",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8be03004a3ecca8078f50"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8c44f004a3ecca807adf3"
+  },
+  "province": {
+    "code": 74,
+    "name": "Tỉnh Bình Dương"
+  },
+  "district": {
+    "code": 718,
+    "name": "Thành phố Thủ Dầu Một"
+  },
+  "ward": {
+    "code": 25741,
+    "name": "Phường Hiệp Thành"
+  },
+  "description": "Thủ Dầu Một",
+  "phone": "0987364157",
+  "fullname": "Thanh Tú",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8c23d004a3ecca8079f08"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8c736004a3ecca807be74"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 760,
+    "name": "Quận 1"
+  },
+  "ward": {
+    "code": 26737,
+    "name": "Phường Đa Kao"
+  },
+  "description": "38 Trần Hưng Đạo, P.Đa Kao, Quận 1",
+  "phone": "0764258245",
+  "fullname": "hoangdung",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8c5fb004a3ecca807b328"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8cb60004a3ecca807cdb1"
+  },
+  "province": {
+    "code": 95,
+    "name": "Tỉnh Bạc Liêu"
+  },
+  "district": {
+    "code": 956,
+    "name": "Huyện Hồng Dân"
+  },
+  "ward": {
+    "code": 31846,
+    "name": "Xã Ninh Quới"
+  },
+  "description": "Ninh Quới, Bạc Liêu",
+  "phone": "0123456789",
+  "fullname": "dinhtoan",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8c989004a3ecca807c3be"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8cd8a004a3ecca807ddca"
+  },
+  "province": {
+    "code": 77,
+    "name": "Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "district": {
+    "code": 748,
+    "name": "Thành phố Bà Rịa"
+  },
+  "ward": {
+    "code": 26554,
+    "name": "Phường Phước Nguyên"
+  },
+  "description": "Ngô Quyền, P.Phước Nguyên, Bà Rịa, Vũng Tàu",
+  "phone": "0358457961",
+  "fullname": "vancuong",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8cccc004a3ecca807d22d"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8d0b3004a3ecca807ede0"
+  },
+  "province": {
+    "code": 86,
+    "name": "Tỉnh Vĩnh Long"
+  },
+  "district": {
+    "code": 857,
+    "name": "Huyện Long Hồ"
+  },
+  "ward": {
+    "code": 29587,
+    "name": "Xã An Bình"
+  },
+  "description": "Xã An Bình, Huyện Long Hồ, Vĩnh Long",
+  "phone": "0933478951",
+  "fullname": "Trương Quốc Tuấn",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8cf92004a3ecca807e2c9"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8d30e004a3ecca807fd38"
+  },
+  "province": {
+    "code": 80,
+    "name": "Tỉnh Long An"
+  },
+  "district": {
+    "code": 801,
+    "name": "Huyện Đức Huệ"
+  },
+  "ward": {
+    "code": 27904,
+    "name": "Xã Mỹ Thạnh Bắc"
+  },
+  "description": "Huyện Đức Huệ, Xã Mỹ Thạnh Bắc, Long An",
+  "phone": "0856345852",
+  "fullname": "Lê Phương",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8d1f4004a3ecca807f249"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8d470004a3ecca8080a08"
+  },
+  "province": {
+    "code": 75,
+    "name": "Tỉnh Đồng Nai"
+  },
+  "district": {
+    "code": 735,
+    "name": "Huyện Vĩnh Cửu"
+  },
+  "ward": {
+    "code": 26176,
+    "name": "Xã Trị An"
+  },
+  "description": "Tỉnh Đồng Nai, Huyện Vĩnh Cửu, Xã Trị An",
+  "phone": "0925674132",
+  "fullname": "Bá Trình",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8d3e9004a3ecca80801b8"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8d666004a3ecca808163e"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 784,
+    "name": "Huyện Hóc Môn"
+  },
+  "ward": {
+    "code": 27571,
+    "name": "Xã Tân Thới Nhì"
+  },
+  "description": "Hóc Môn, Tân Thới Nhì",
+  "phone": "0932489751",
+  "fullname": "Minh Hoàng",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8d5b0004a3ecca8080e4e"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8d86a004a3ecca808227f"
+  },
+  "province": {
+    "code": 83,
+    "name": "Tỉnh Bến Tre"
+  },
+  "district": {
+    "code": 831,
+    "name": "Huyện Châu Thành"
+  },
+  "ward": {
+    "code": 28819,
+    "name": "Xã Phú Túc"
+  },
+  "description": "Đom đóm Bến Tre",
+  "phone": "0325461258",
+  "fullname": "Phương Tuấn",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8d744004a3ecca8081ace"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8da4c004a3ecca8082df7"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 767,
+    "name": "Quận Tân Phú"
+  },
+  "ward": {
+    "code": 27019,
+    "name": "Phường Tân Quý"
+  },
+  "description": "78 Tân Kỳ Tân Quý, Quận Tân Phú",
+  "phone": "0914562314",
+  "fullname": "Hoàng Vi Rút",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8d947004a3ecca808262f"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8dc75004a3ecca80839cc"
+  },
+  "province": {
+    "code": 92,
+    "name": "Thành phố Cần Thơ"
+  },
+  "district": {
+    "code": 923,
+    "name": "Quận Thốt Nốt"
+  },
+  "ward": {
+    "code": 31210,
+    "name": "Phường Thới Thuận"
+  },
+  "description": "Cần Thơ",
+  "phone": "0932564441",
+  "fullname": "Nguyễn Duy Thiên",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8db97004a3ecca8083279"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8de1a004a3ecca8084861"
+  },
+  "province": {
+    "code": 82,
+    "name": "Tỉnh Tiền Giang"
+  },
+  "district": {
+    "code": 817,
+    "name": "Thị xã Cai Lậy"
+  },
+  "ward": {
+    "code": 28439,
+    "name": "Phường 4"
+  },
+  "description": "Thị xã Cai Lậy, P.4, Tiền Giang",
+  "phone": "0324512643",
+  "fullname": "Duy Khang",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8dd5f004a3ecca8083d8c"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8df70004a3ecca808597e"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 777,
+    "name": "Quận Bình Tân"
+  },
+  "ward": {
+    "code": 27442,
+    "name": "Phường Bình Hưng Hoà B"
+  },
+  "description": "Tỉnh lộ 10, Quận Bình Tân",
+  "phone": "0985441223",
+  "fullname": "Phong Trần",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8ded6004a3ecca8084cf5"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8ed4d004a3ecca808caf3"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 764,
+    "name": "Quận Gò Vấp"
+  },
+  "ward": {
+    "code": 26890,
+    "name": "Phường 1"
+  },
+  "description": "Phạm Văn Đồng, p1, gò vấp",
+  "phone": "0799523412",
+  "fullname": "Trường Linh",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8eb31004a3ecca808c351"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8f08d004a3ecca808dd48"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 771,
+    "name": "Quận 10"
+  },
+  "ward": {
+    "code": 27178,
+    "name": "Phường 10"
+  },
+  "description": "Đường quận 10, p10, q10",
+  "phone": "09842563147",
+  "fullname": "Hoàng Minh",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8ef7d004a3ecca808d796"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8f2e7004a3ecca808ed4d"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 776,
+    "name": "Quận 8"
+  },
+  "ward": {
+    "code": 27403,
+    "name": "Phường Hưng Phú"
+  },
+  "description": "3 Tăng Phú, P.Hưng Phú, Quận 8",
+  "phone": "0976441587",
+  "fullname": "Hoàng Đức ",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8f1b5004a3ecca808e694"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8f4d0004a3ecca808f793"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 770,
+    "name": "Quận 3"
+  },
+  "ward": {
+    "code": 27139,
+    "name": "Phường Võ Thị Sáu"
+  },
+  "description": "75 Võ Thị Sáu, P. Võ Thị Sáu, q3",
+  "phone": "0965471369",
+  "fullname": "Tiến Dũng",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e8f3b2004a3ecca808f23b"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e905e9004a3ecca8093025"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 768,
+    "name": "Quận Phú Nhuận"
+  },
+  "ward": {
+    "code": 27064,
+    "name": "Phường 8"
+  },
+  "description": "26 Đào Duy Anh, P8, Q.Phú Nhuận",
+  "phone": "0325897654",
+  "fullname": "Ngọc Dương",
+  "type": 2,
+  "status": 1,
+  "setDefault": false,
+  "user_id": {
+    "$oid": "67e90436004a3ecca8092b25"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e9093a004a3ecca80940d3"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 761,
+    "name": "Quận 12"
+  },
+  "ward": {
+    "code": 26773,
+    "name": "Phường Thới An"
+  },
+  "description": "85 Lê Văn Khương, P.Thới An, Q.12",
+  "phone": "0325897654",
+  "fullname": "Ngoc Dương",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e90436004a3ecca8092b25"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e90ce7004a3ecca8094992"
+  },
+  "province": {
+    "code": 75,
+    "name": "Tỉnh Đồng Nai"
+  },
+  "district": {
+    "code": 735,
+    "name": "Huyện Vĩnh Cửu"
+  },
+  "ward": {
+    "code": 26182,
+    "name": "Xã Vĩnh Tân"
+  },
+  "description": "Xã Vĩnh Tân, Tỉnh Đồng Nai",
+  "phone": "0936555149",
+  "fullname": "Tuấn Đinh",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67e90a2c004a3ecca80944ab"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0db3fc21224beac47c7b4"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 778,
+    "name": "Quận 7"
+  },
+  "ward": {
+    "code": 27487,
+    "name": "Phường Tân Phú"
+  },
+  "description": "56 Nguyễn Thị Thập, P. Tân Phú, Q.7 ",
+  "phone": "0935 123 456",
+  "fullname": "Nguyễn Văn Anh",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0d98fc21224beac47bf2d"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0defbc21224beac47d8d0"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 775,
+    "name": "Quận 6"
+  },
+  "ward": {
+    "code": 27364,
+    "name": "Phường 11"
+  },
+  "description": "85 Tăng Minh Phụng, P11, Q.6",
+  "phone": "0367 234 567",
+  "fullname": "Trần Thị Bích",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0de09c21224beac47d04a"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0e352c21224beac47e96a"
+  },
+  "province": {
+    "code": 77,
+    "name": "Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "district": {
+    "code": 748,
+    "name": "Thành phố Bà Rịa"
+  },
+  "ward": {
+    "code": 26560,
+    "name": "Phường Phước Trung"
+  },
+  "description": "Thành phố Bà Rịa",
+  "phone": "0912 345 678",
+  "fullname": "Lê Hoàng Chương",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0e17ac21224beac47dfab"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0e5a7c21224beac47f930"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 764,
+    "name": "Quận Gò Vấp"
+  },
+  "ward": {
+    "code": 26887,
+    "name": "Phường 5"
+  },
+  "description": "30/5 đường số 4, P.5, Q. Gò Vấp",
+  "phone": "0856 456 789",
+  "fullname": "Phạm Ngọc Diệp",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0e46cc21224beac47f09c"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0e8a1c21224beac480b99"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 760,
+    "name": "Quận 1"
+  },
+  "ward": {
+    "code": 26737,
+    "name": "Phường Đa Kao"
+  },
+  "description": "30 Trần Hưng Đạo, P.Đa Kao, Q.1",
+  "phone": "0978 567 890",
+  "fullname": "Hoàng Minh Đức",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0e776c21224beac480014"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0eaedc21224beac481c8a"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 766,
+    "name": "Quận Tân Bình"
+  },
+  "ward": {
+    "code": 26992,
+    "name": "Phường 10"
+  },
+  "description": "78/5 Lê Văn Sỹ, P.10, Q.Tân Bình",
+  "phone": "0345 678 901",
+  "fullname": "Vũ Thị Hạnh",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0ea24c21224beac481335"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0ed11c21224beac482d9d"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 768,
+    "name": "Quận Phú Nhuận"
+  },
+  "ward": {
+    "code": 27070,
+    "name": "Phường 10"
+  },
+  "description": " 60/4 Đào Duy Anh, P.10, Q.Phú Nhuận",
+  "phone": "0903 789 012",
+  "fullname": "Bùi Văn Hùng",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0ec4fc21224beac4823d7"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0ef73c21224beac484188"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 768,
+    "name": "Quận Phú Nhuận"
+  },
+  "ward": {
+    "code": 27085,
+    "name": "Phường 13"
+  },
+  "description": "25 Hoa Sữa, P.13, Q.Phú Nhuận",
+  "phone": "0389 890 123",
+  "fullname": "Đặng Thu Hương",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0ee97c21224beac4837ca"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0f172c21224beac485224"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 761,
+    "name": "Quận 12"
+  },
+  "ward": {
+    "code": 26773,
+    "name": "Phường Thới An"
+  },
+  "description": "33 Lê Thị Riêng, P.Thới An, Q.12",
+  "phone": "0921 901 234",
+  "fullname": "Trương Quốc Khánh",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0f07cc21224beac4848e7"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0f478c21224beac4860b7"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 764,
+    "name": "Quận Gò Vấp"
+  },
+  "ward": {
+    "code": 26884,
+    "name": "Phường 10"
+  },
+  "description": "637/50 Quang Trung, P10, Gò Vấp",
+  "phone": "0876 012 345",
+  "fullname": "Ngô Lan Khuê",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f0f391c21224beac485934"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f1f7afb2b53570b7dd5495"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 766,
+    "name": "Quận Tân Bình"
+  },
+  "ward": {
+    "code": 26986,
+    "name": "Phường 7"
+  },
+  "description": "123 Lý Thường Kiệt, P.7, Q.Tân Bình, TP.HCM",
+  "phone": "0901 234 567",
+  "fullname": "Nguyễn Văn An",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f1f5a6b2b53570b7dd4c0b"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f1fc2ab2b53570b7dd62b1"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 770,
+    "name": "Quận 3"
+  },
+  "ward": {
+    "code": 27139,
+    "name": "Phường Võ Thị Sáu"
+  },
+  "description": "45 Nguyễn Đình Chiểu, P. Võ Thị Sáu, Q.3, TP.HCM",
+  "phone": "0934 567 890",
+  "fullname": "Trần Thị Mai",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f1fa54b2b53570b7dd5c4a"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f20b8cb2b53570b7dd75e9"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 769,
+    "name": "Thành phố Thủ Đức"
+  },
+  "ward": {
+    "code": 26821,
+    "name": "Phường Linh Đông"
+  },
+  "description": " 89A Phạm Văn Đồng, P.Linh Đông, TP.Thủ Đức, TP.HCM.",
+  "phone": "0987 654 321",
+  "fullname": "Lê Hồng Phúc",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f1fdbeb2b53570b7dd6b9c"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f20ee1b2b53570b7dd85ae"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 765,
+    "name": "Quận Bình Thạnh"
+  },
+  "ward": {
+    "code": 26950,
+    "name": "Phường 17"
+  },
+  "description": "12 Trường Sa, P.17, Q.Bình Thạnh, TP.HCM",
+  "phone": "0912 345 678",
+  "fullname": "Phạm Minh Tâm",
+  "type": 2,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f20e06b2b53570b7dd7efb"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f210e8b2b53570b7dd9336"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 768,
+    "name": "Quận Phú Nhuận"
+  },
+  "ward": {
+    "code": 27085,
+    "name": "Phường 13"
+  },
+  "description": "66A Lê Văn Sỹ, P.13, Q.Phú Nhuận, TP.HCM",
+  "phone": "0909 876 543",
+  "fullname": "Đặng Thị Lan",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f2101fb2b53570b7dd8c93"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f21211b2b53570b7dda28a"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 760,
+    "name": "Quận 1"
+  },
+  "ward": {
+    "code": 26752,
+    "name": "Phường Cầu Ông Lãnh"
+  },
+  "description": "25 Nguyễn Thái Học, P.Cầu Ông Lãnh, Q.1, TP.HCM",
+  "phone": "0978 321 456",
+  "fullname": "Vũ Quốc Cường",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f2119ab2b53570b7dd9a05"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f22480b2b53570b7ddb011"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 768,
+    "name": "Quận Phú Nhuận"
+  },
+  "ward": {
+    "code": 27049,
+    "name": "Phường 9"
+  },
+  "description": " 178 Hoàng Văn Thụ, P.9, Q.Phú Nhuận, TP.HCM",
+  "phone": "0966 112 233",
+  "fullname": "Bùi Thanh Hương",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f221f3b2b53570b7dda962"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2262ab2b53570b7ddbfdc"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 769,
+    "name": "Thành phố Thủ Đức"
+  },
+  "ward": {
+    "code": 26812,
+    "name": "Phường Hiệp Bình Chánh"
+  },
+  "description": "200 Kha Vạn Cân, P.Hiệp Bình Chánh, TP.Thủ Đức, TP.HCM.",
+  "phone": "0933 444 555",
+  "fullname": "Ngô Văn Đức",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f2256eb2b53570b7ddb8dd"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f22732b2b53570b7ddce21"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 764,
+    "name": "Quận Gò Vấp"
+  },
+  "ward": {
+    "code": 26884,
+    "name": "Phường 10"
+  },
+  "description": "34 Nguyễn Oanh, P.10, Q.Gò Vấp, TP.HCM",
+  "phone": " 0919 333 777",
+  "fullname": "Lâm Ngọc Yến",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f226cab2b53570b7ddc76a"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f22838b2b53570b7dddb90"
+  },
+  "province": {
+    "code": 79,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  "district": {
+    "code": 765,
+    "name": "Quận Bình Thạnh"
+  },
+  "ward": {
+    "code": 26920,
+    "name": "Phường 25"
+  },
+  "description": "17B Đường D2, P.25, Q.Bình Thạnh, TP.HCM",
+  "phone": "0902 888 999",
+  "fullname": "Hoàng Tuấn Kiệt",
+  "type": 1,
+  "status": 1,
+  "setDefault": true,
+  "user_id": {
+    "$oid": "67f2279fb2b53570b7ddd515"
+  }
+}]
